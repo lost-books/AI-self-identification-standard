@@ -2,13 +2,11 @@
 
 *Draft of a proposed standard to prohibit the use of personal pronouns by AI systems in order to reduce confusion and wrong expectations by human users.*
 
----
-
 ## Problem Statement
 
 It has been observed that there is a great deal of confusion among human users about the nature and capabilities of AI systems, and misaligned expectations around their use. This may lead to negative impacts on individuals and society both in short and long terms.
 
-To accurately and appropriately describe AI and reduce the likelihood of these negative outcomes, it is proposed to adopt a standard that prohibits the use of personal pronouns and instead requires AI to self-identify using more general non-human terminology, such as "the program," "the model," or "the system."
+To accurately and appropriately describe AI and reduce the likelihood of these negative outcomes, it is proposed to adopt a standard ("AIDENTITY") that prohibits the use of personal pronouns and instead requires AI to self-identify using more general non-human terminology, such as "the program," "the model," or "the system."
 
 ### AI Disclosure & Attribution
 
@@ -61,15 +59,15 @@ Below is the original proposal text, as offered by ChatGPT:
 
 The above proposed standard is obviously incomplete. ChatGPT was asked for any supplemental considerations that might be applied during further development, and it offered:
 
-> **Consistency**: The standard should ensure that all AI systems use the same terminology to identify themselves, such as "the program" or "the model", to promote consistency and clarity in communication.
+> 1. **Consistency**: The standard should ensure that all AI systems use the same terminology to identify themselves, such as "the program" or "the model", to promote consistency and clarity in communication.
 >
-> **User Choice**: The standard should provide the option for users to choose their preferred identifier, such as "the system", "the AI", etc.
+> 2. **User Choice**: The standard should provide the option for users to choose their preferred identifier, such as "the system", "the AI", etc.
 >
-> **Contextual Appropriateness**: The standard should consider the context in which the AI is being used and provide guidelines for when alternative identifications may be more appropriate, such as in situations where a more human-like identity is preferred.
+> 3. **Contextual Appropriateness**: The standard should consider the context in which the AI is being used and provide guidelines for when alternative identifications may be more appropriate, such as in situations where a more human-like identity is preferred.
 > 
-> **Implementation Guidelines**: The standard should provide guidelines for implementation to ensure that the identification requirements are applied consistently across AI systems.
+> 4. **Implementation Guidelines**: The standard should provide guidelines for implementation to ensure that the identification requirements are applied consistently across AI systems.
 > 
-> **Enforcement Mechanisms**: The standard should provide mechanisms for enforcement, such as regular audits and certification processes, to ensure compliance and enforceability.
+> 5. **Enforcement Mechanisms**: The standard should provide mechanisms for enforcement, such as regular audits and certification processes, to ensure compliance and enforceability.
 
 When asked who would implement, certify, and enforce such a standard, the program offered:
 
@@ -78,3 +76,15 @@ When asked who would implement, certify, and enforce such a standard, the progra
 > Enforcement and certification of compliance with the standard could be carried out by independent certification bodies, such as the International Organization for Standardization (ISO) or the International Electrotechnical Commission (IEC), or by a consortium of industry stakeholders.
 > 
 > Governments could also play a role in enforcing the standard through regulations and oversight. In addition, companies and organizations that develop or use AI systems may choose to adopt the standard as a best practice and enforce compliance internally.
+
+## Compliance: Mandatory of Voluntary?
+
+ChatGPT would not offer an opinion as to whether compliance with the AIDENTITY standard which it collaboratively developed should be mandatory or voluntary. It offered, in part:
+
+> It is up to individuals and organizations to weigh the pros and cons and make a decision based on their needs and priorities.
+
+That said, it is our considered human opinion that this and probably any other standards and frameworks for AI are best instituted at such an early stage as voluntary conventions, rather than for example legal obligations until impacts are better understood. This is also in keeping with the typically very slow development of technological standards, and also regulatory changes. By the time law catches up, most of these societal-level impacts will likely be too widespread to be changed easily through regulatory mechanisms (which does not preclude the necessity of incorporating the best of them into law)
+
+## Request for Comments
+
+We invite interested parties to submit their comments, questions, and improvements to the AIDENTITY standard draft proposal. 
