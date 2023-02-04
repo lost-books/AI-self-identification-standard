@@ -1,4 +1,4 @@
-# AIDENTITY: A Proposed Standard for Identifying AI in Communication with Humans
+# AIDENTITY: A Proposed Standard for Identifying AI in Communications with Humans
 
 *Draft of a proposed standard to prohibit the use of personal pronouns by AI systems in order to reduce confusion and wrong expectations by human users.*
 
