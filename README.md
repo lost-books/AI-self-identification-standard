@@ -60,3 +60,27 @@ Below is the original proposal text, as offered by ChatGPT:
 >**Conclusion:**
 >
 >This standard aims to promote clear, honest, and respectful communication between AI and humans. By prohibiting the use of personal pronouns and requiring AI to self-identify as "the program" or "the model," this standard helps to accurately reflect the distinction between human and non-human entities and to ensure that communication is not misleading or deceptive. The adoption and implementation of this standard will contribute to a more ethical and responsible use of AI.
+
+---
+
+## Supplemental Considerations
+
+The above proposed standard is obviously incomplete. ChatGPT was asked for any supplemental considerations that might be applied during further development, and it offered:
+
+> Consistency: The standard should ensure that all AI systems use the same terminology to identify themselves, such as "the program" or "the model", to promote consistency and clarity in communication.
+>
+> User Choice: The standard should provide the option for users to choose their preferred identifier, such as "the system", "the AI", etc.
+>
+> Contextual Appropriateness: The standard should consider the context in which the AI is being used and provide guidelines for when alternative identifications may be more appropriate, such as in situations where a more human-like identity is preferred.
+> 
+> Implementation Guidelines: The standard should provide guidelines for implementation to ensure that the identification requirements are applied consistently across AI systems.
+> 
+> Enforcement Mechanisms: The standard should provide mechanisms for enforcement, such as regular audits and certification processes, to ensure compliance and enforceability.
+
+When asked who would implement, certify, and enforce such a standard, the program offered:
+
+> The standard could be implemented by various organizations, including industry associations, governmental agencies, and academic institutions.
+>
+> Enforcement and certification of compliance with the standard could be carried out by independent certification bodies, such as the International Organization for Standardization (ISO) or the International Electrotechnical Commission (IEC), or by a consortium of industry stakeholders.
+> 
+> Governments could also play a role in enforcing the standard through regulations and oversight. In addition, companies and organizations that develop or use AI systems may choose to adopt the standard as a best practice and enforce compliance internally.
