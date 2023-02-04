@@ -10,7 +10,7 @@ To accurately and appropriately describe AI and reduce the likelihood of these n
 
 ### AI Disclosure & Attribution
 
-*This document was developed in collaboration with ChatGPT, on 4 Feb 2023, and edited by a human.*
+*This document was developed in collaboration with ChatGPT, on 4 Feb 2023, and edited by [a human](https://www.timboucher.ca/2023/02/towards-a-standard-for-ai-self-identification/).*
 
 ## Potential Risks to Humans
 
