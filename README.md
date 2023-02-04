@@ -83,7 +83,7 @@ ChatGPT would not offer an opinion as to whether compliance with the AIDENTITY s
 
 > It is up to individuals and organizations to weigh the pros and cons and make a decision based on their needs and priorities.
 
-That said, it is our considered human opinion that this and probably any other standards and frameworks for AI are best instituted at such an early stage as voluntary conventions, rather than for example legal obligations until impacts are better understood. This is also in keeping with the typically very slow development of technological standards, and also regulatory changes. By the time law catches up, most of these societal-level impacts will likely be too widespread to be changed easily through regulatory mechanisms (which does not preclude the necessity of incorporating the best of them into law)
+That said, it is our considered human opinion that this and probably any other standards and frameworks for AI are best instituted at such an early stage as voluntary conventions or "best practices," rather than for example formal legal obligations until impacts are better understood. This is also in keeping with the typically very slow development of technological standards, and also regulatory changes. By the time law catches up, most of these societal-level impacts will likely be too widespread to be changed easily through regulatory mechanisms (which does not preclude the necessity of incorporating the best of them into law)
 
 ## Request for Comments
 
